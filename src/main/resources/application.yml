@@ -11,6 +11,6 @@ spring:
       ddl-auto: create-drop
 redis:
   database: Giulia-free-db
-  password: XBkUvq7112GH6s8C2d0BOvax2andmdHn
-  host: redis-10990.c278.us-east-1-4.ec2.cloud.redislabs.com
+  password: password
+  host: redis-host
   port: 10990

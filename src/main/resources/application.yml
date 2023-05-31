@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/checkpointdb
+    username: root
+    password: c620918fazuKl420
+  jpa:
+    database: mysql
+    show-sql: true
+    generate-ddl: true
+    hibernate:
+      ddl-auto: create-drop
+redis:
+  database: Giulia-free-db
+  password: XBkUvq7112GH6s8C2d0BOvax2andmdHn
+  host: redis-10990.c278.us-east-1-4.ec2.cloud.redislabs.com
+  port: 10990
